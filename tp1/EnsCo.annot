@@ -1,0 +1,2895 @@
+"tp1/EnsCo.ml" 8 185 189 "tp1/EnsCo.ml" 8 185 195
+type(
+  element_augmente -> element_augmente -> bool
+)
+ident(
+  def compar "tp1/EnsCo.ml" 16 346 346 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 8 185 201 "tp1/EnsCo.ml" 8 185 202
+type(
+  element_augmente
+)
+ident(
+  def x "tp1/EnsCo.ml" 8 185 203 "tp1/EnsCo.ml" 14 329 342
+)
+"tp1/EnsCo.ml" 8 185 203 "tp1/EnsCo.ml" 8 185 204
+type(
+  element_augmente
+)
+ident(
+  def y "tp1/EnsCo.ml" 9 208 209 "tp1/EnsCo.ml" 14 329 342
+)
+"tp1/EnsCo.ml" 9 208 216 "tp1/EnsCo.ml" 9 208 217
+type(
+  element_augmente
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 8 185 201 "tp1/EnsCo.ml" 8 185 202
+)
+"tp1/EnsCo.ml" 9 208 218 "tp1/EnsCo.ml" 9 208 219
+type(
+  element_augmente
+)
+ident(
+  int_ref y "tp1/EnsCo.ml" 8 185 203 "tp1/EnsCo.ml" 8 185 204
+)
+"tp1/EnsCo.ml" 9 208 215 "tp1/EnsCo.ml" 9 208 220
+type(
+  element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 10 226 230 "tp1/EnsCo.ml" 10 226 233
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 10 226 234 "tp1/EnsCo.ml" 10 226 237
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 10 226 229 "tp1/EnsCo.ml" 10 226 238
+type(
+  element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 10 226 242 "tp1/EnsCo.ml" 10 226 247
+type(
+  bool
+)
+"tp1/EnsCo.ml" 11 248 252 "tp1/EnsCo.ml" 11 248 255
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 11 248 257 "tp1/EnsCo.ml" 11 248 258
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 11 248 251 "tp1/EnsCo.ml" 11 248 259
+type(
+  element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 11 248 263 "tp1/EnsCo.ml" 11 248 267
+type(
+  bool
+)
+"tp1/EnsCo.ml" 12 268 281 "tp1/EnsCo.ml" 12 268 282
+type(
+  element
+)
+ident(
+  def e "tp1/EnsCo.ml" 12 268 301 "tp1/EnsCo.ml" 12 268 308
+)
+"tp1/EnsCo.ml" 12 268 272 "tp1/EnsCo.ml" 12 268 283
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 12 268 294 "tp1/EnsCo.ml" 12 268 295
+type(
+  element
+)
+ident(
+  def f "tp1/EnsCo.ml" 12 268 301 "tp1/EnsCo.ml" 12 268 308
+)
+"tp1/EnsCo.ml" 12 268 285 "tp1/EnsCo.ml" 12 268 296
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 12 268 271 "tp1/EnsCo.ml" 12 268 297
+type(
+  element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 12 268 302 "tp1/EnsCo.ml" 12 268 303
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 12 268 281 "tp1/EnsCo.ml" 12 268 282
+)
+"tp1/EnsCo.ml" 12 268 304 "tp1/EnsCo.ml" 12 268 305
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"tp1/EnsCo.ml" 12 268 306 "tp1/EnsCo.ml" 12 268 307
+type(
+  element
+)
+ident(
+  int_ref f "tp1/EnsCo.ml" 12 268 294 "tp1/EnsCo.ml" 12 268 295
+)
+"tp1/EnsCo.ml" 12 268 301 "tp1/EnsCo.ml" 12 268 308
+type(
+  bool
+)
+"tp1/EnsCo.ml" 13 309 313 "tp1/EnsCo.ml" 13 309 314
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 13 309 316 "tp1/EnsCo.ml" 13 309 319
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 13 309 312 "tp1/EnsCo.ml" 13 309 320
+type(
+  element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 13 309 324 "tp1/EnsCo.ml" 13 309 328
+type(
+  bool
+)
+"tp1/EnsCo.ml" 14 329 332 "tp1/EnsCo.ml" 14 329 333
+type(
+  element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 14 329 337 "tp1/EnsCo.ml" 14 329 342
+type(
+  bool
+)
+"tp1/EnsCo.ml" 9 208 209 "tp1/EnsCo.ml" 14 329 342
+type(
+  bool
+)
+"tp1/EnsCo.ml" 8 185 197 "tp1/EnsCo.ml" 14 329 342
+type(
+  element_augmente -> element_augmente -> bool
+)
+"tp1/EnsCo.ml" 16 346 354 "tp1/EnsCo.ml" 16 346 366
+type(
+  element -> ab -> bool
+)
+ident(
+  def appartient_a "tp1/EnsCo.ml" 16 346 346 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 16 346 373 "tp1/EnsCo.ml" 16 346 374
+type(
+  element
+)
+ident(
+  def e "tp1/EnsCo.ml" 16 346 375 "tp1/EnsCo.ml" 22 548 583
+)
+"tp1/EnsCo.ml" 16 346 375 "tp1/EnsCo.ml" 16 346 376
+type(
+  ab
+)
+ident(
+  def a "tp1/EnsCo.ml" 17 380 381 "tp1/EnsCo.ml" 22 548 583
+)
+"tp1/EnsCo.ml" 17 380 387 "tp1/EnsCo.ml" 17 380 388
+type(
+  ab
+)
+ident(
+  int_ref a "tp1/EnsCo.ml" 16 346 375 "tp1/EnsCo.ml" 16 346 376
+)
+"tp1/EnsCo.ml" 18 394 397 "tp1/EnsCo.ml" 18 394 401
+type(
+  ab
+)
+"tp1/EnsCo.ml" 18 394 405 "tp1/EnsCo.ml" 18 394 410
+type(
+  bool
+)
+"tp1/EnsCo.ml" 19 411 420 "tp1/EnsCo.ml" 19 411 421
+type(
+  ab
+)
+"tp1/EnsCo.ml" 19 411 422 "tp1/EnsCo.ml" 19 411 424
+type(
+  element
+)
+ident(
+  def e2 "tp1/EnsCo.ml" 19 411 435 "tp1/EnsCo.ml" 19 411 449
+)
+"tp1/EnsCo.ml" 19 411 425 "tp1/EnsCo.ml" 19 411 426
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 19 411 427 "tp1/EnsCo.ml" 19 411 428
+type(
+  ab
+)
+"tp1/EnsCo.ml" 19 411 414 "tp1/EnsCo.ml" 19 411 429
+type(
+  ab
+)
+"tp1/EnsCo.ml" 19 411 435 "tp1/EnsCo.ml" 19 411 437
+type(
+  element
+)
+ident(
+  int_ref e2 "tp1/EnsCo.ml" 19 411 422 "tp1/EnsCo.ml" 19 411 424
+)
+"tp1/EnsCo.ml" 19 411 438 "tp1/EnsCo.ml" 19 411 439
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"tp1/EnsCo.ml" 19 411 440 "tp1/EnsCo.ml" 19 411 441
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 16 346 373 "tp1/EnsCo.ml" 16 346 374
+)
+"tp1/EnsCo.ml" 19 411 435 "tp1/EnsCo.ml" 19 411 441
+type(
+  bool
+)
+"tp1/EnsCo.ml" 19 411 445 "tp1/EnsCo.ml" 19 411 449
+type(
+  bool
+)
+"tp1/EnsCo.ml" 20 450 459 "tp1/EnsCo.ml" 20 450 460
+type(
+  ab
+)
+"tp1/EnsCo.ml" 20 450 461 "tp1/EnsCo.ml" 20 450 463
+type(
+  element
+)
+ident(
+  def e2 "tp1/EnsCo.ml" 20 450 476 "tp1/EnsCo.ml" 20 450 504
+)
+"tp1/EnsCo.ml" 20 450 464 "tp1/EnsCo.ml" 20 450 465
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 20 450 466 "tp1/EnsCo.ml" 20 450 469
+type(
+  ab
+)
+ident(
+  def abd "tp1/EnsCo.ml" 20 450 476 "tp1/EnsCo.ml" 20 450 504
+)
+"tp1/EnsCo.ml" 20 450 453 "tp1/EnsCo.ml" 20 450 470
+type(
+  ab
+)
+"tp1/EnsCo.ml" 20 450 476 "tp1/EnsCo.ml" 20 450 478
+type(
+  element
+)
+ident(
+  int_ref e2 "tp1/EnsCo.ml" 20 450 461 "tp1/EnsCo.ml" 20 450 463
+)
+"tp1/EnsCo.ml" 20 450 479 "tp1/EnsCo.ml" 20 450 480
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"tp1/EnsCo.ml" 20 450 481 "tp1/EnsCo.ml" 20 450 482
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 16 346 373 "tp1/EnsCo.ml" 16 346 374
+)
+"tp1/EnsCo.ml" 20 450 476 "tp1/EnsCo.ml" 20 450 482
+type(
+  bool
+)
+"tp1/EnsCo.ml" 20 450 486 "tp1/EnsCo.ml" 20 450 498
+type(
+  element -> ab -> bool
+)
+ident(
+  int_ref appartient_a "tp1/EnsCo.ml" 16 346 354 "tp1/EnsCo.ml" 16 346 366
+)
+"tp1/EnsCo.ml" 20 450 499 "tp1/EnsCo.ml" 20 450 500
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 16 346 373 "tp1/EnsCo.ml" 16 346 374
+)
+"tp1/EnsCo.ml" 20 450 501 "tp1/EnsCo.ml" 20 450 504
+type(
+  ab
+)
+ident(
+  int_ref abd "tp1/EnsCo.ml" 20 450 466 "tp1/EnsCo.ml" 20 450 469
+)
+"tp1/EnsCo.ml" 20 450 486 "tp1/EnsCo.ml" 20 450 504
+type(
+  bool
+)
+"tp1/EnsCo.ml" 21 505 514 "tp1/EnsCo.ml" 21 505 517
+type(
+  ab
+)
+ident(
+  def abg "tp1/EnsCo.ml" 21 505 529 "tp1/EnsCo.ml" 21 505 547
+)
+"tp1/EnsCo.ml" 21 505 518 "tp1/EnsCo.ml" 21 505 520
+type(
+  element
+)
+ident(
+  def e2 "tp1/EnsCo.ml" 21 505 529 "tp1/EnsCo.ml" 21 505 547
+)
+"tp1/EnsCo.ml" 21 505 521 "tp1/EnsCo.ml" 21 505 522
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 21 505 523 "tp1/EnsCo.ml" 21 505 524
+type(
+  ab
+)
+"tp1/EnsCo.ml" 21 505 508 "tp1/EnsCo.ml" 21 505 525
+type(
+  ab
+)
+"tp1/EnsCo.ml" 21 505 529 "tp1/EnsCo.ml" 21 505 541
+type(
+  element -> ab -> bool
+)
+ident(
+  int_ref appartient_a "tp1/EnsCo.ml" 16 346 354 "tp1/EnsCo.ml" 16 346 366
+)
+"tp1/EnsCo.ml" 21 505 542 "tp1/EnsCo.ml" 21 505 543
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 16 346 373 "tp1/EnsCo.ml" 16 346 374
+)
+"tp1/EnsCo.ml" 21 505 544 "tp1/EnsCo.ml" 21 505 547
+type(
+  ab
+)
+ident(
+  int_ref abg "tp1/EnsCo.ml" 21 505 514 "tp1/EnsCo.ml" 21 505 517
+)
+"tp1/EnsCo.ml" 21 505 529 "tp1/EnsCo.ml" 21 505 547
+type(
+  bool
+)
+"tp1/EnsCo.ml" 22 548 551 "tp1/EnsCo.ml" 22 548 552
+type(
+  ab
+)
+"tp1/EnsCo.ml" 22 548 556 "tp1/EnsCo.ml" 22 548 564
+type(
+  string -> bool
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tp1/EnsCo.ml" 22 548 565 "tp1/EnsCo.ml" 22 548 583
+type(
+  string
+)
+"tp1/EnsCo.ml" 22 548 556 "tp1/EnsCo.ml" 22 548 583
+type(
+  bool
+)
+"tp1/EnsCo.ml" 17 380 381 "tp1/EnsCo.ml" 22 548 583
+type(
+  bool
+)
+"tp1/EnsCo.ml" 16 346 369 "tp1/EnsCo.ml" 22 548 583
+type(
+  element -> ab -> bool
+)
+"tp1/EnsCo.ml" 24 587 591 "tp1/EnsCo.ml" 24 587 599
+type(
+  ab -> bool
+)
+ident(
+  def est_vide "tp1/EnsCo.ml" 28 643 643 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 25 611 614 "tp1/EnsCo.ml" 25 611 618
+type(
+  ab
+)
+"tp1/EnsCo.ml" 25 611 621 "tp1/EnsCo.ml" 25 611 625
+type(
+  bool
+)
+"tp1/EnsCo.ml" 26 626 629 "tp1/EnsCo.ml" 26 626 630
+type(
+  ab
+)
+"tp1/EnsCo.ml" 26 626 634 "tp1/EnsCo.ml" 26 626 639
+type(
+  bool
+)
+"tp1/EnsCo.ml" 24 587 602 "tp1/EnsCo.ml" 26 626 639
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 28 643 647 "tp1/EnsCo.ml" 28 643 654
+type(
+  ab -> bool
+)
+ident(
+  def est_abr "tp1/EnsCo.ml" 37 923 923 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 28 643 666 "tp1/EnsCo.ml" 28 643 668
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 29 672 673 "tp1/EnsCo.ml" 35 892 918
+)
+"tp1/EnsCo.ml" 29 672 681 "tp1/EnsCo.ml" 29 672 684
+type(
+  ab -> element -> element -> bool
+)
+ident(
+  def aux "tp1/EnsCo.ml" 29 672 673 "tp1/EnsCo.ml" 35 892 918
+)
+"tp1/EnsCo.ml" 29 672 691 "tp1/EnsCo.ml" 29 672 692
+type(
+  ab
+)
+ident(
+  def a "tp1/EnsCo.ml" 29 672 693 "tp1/EnsCo.ml" 34 856 891
+)
+"tp1/EnsCo.ml" 29 672 693 "tp1/EnsCo.ml" 29 672 696
+type(
+  element
+)
+ident(
+  def min "tp1/EnsCo.ml" 29 672 697 "tp1/EnsCo.ml" 34 856 891
+)
+"tp1/EnsCo.ml" 29 672 697 "tp1/EnsCo.ml" 29 672 700
+type(
+  element
+)
+ident(
+  def max "tp1/EnsCo.ml" 30 704 706 "tp1/EnsCo.ml" 34 856 891
+)
+"tp1/EnsCo.ml" 30 704 712 "tp1/EnsCo.ml" 30 704 713
+type(
+  ab
+)
+ident(
+  int_ref a "tp1/EnsCo.ml" 29 672 691 "tp1/EnsCo.ml" 29 672 692
+)
+"tp1/EnsCo.ml" 31 719 723 "tp1/EnsCo.ml" 31 719 727
+type(
+  ab
+)
+"tp1/EnsCo.ml" 31 719 731 "tp1/EnsCo.ml" 31 719 735
+type(
+  bool
+)
+"tp1/EnsCo.ml" 32 736 746 "tp1/EnsCo.ml" 32 736 747
+type(
+  ab
+)
+"tp1/EnsCo.ml" 32 736 748 "tp1/EnsCo.ml" 32 736 749
+type(
+  element
+)
+ident(
+  def e "tp1/EnsCo.ml" 32 736 760 "tp1/EnsCo.ml" 32 736 796
+)
+"tp1/EnsCo.ml" 32 736 750 "tp1/EnsCo.ml" 32 736 751
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 32 736 752 "tp1/EnsCo.ml" 32 736 753
+type(
+  ab
+)
+"tp1/EnsCo.ml" 32 736 740 "tp1/EnsCo.ml" 32 736 754
+type(
+  ab
+)
+"tp1/EnsCo.ml" 32 736 762 "tp1/EnsCo.ml" 32 736 763
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 32 736 748 "tp1/EnsCo.ml" 32 736 749
+)
+"tp1/EnsCo.ml" 32 736 764 "tp1/EnsCo.ml" 32 736 766
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"tp1/EnsCo.ml" 32 736 767 "tp1/EnsCo.ml" 32 736 770
+type(
+  element
+)
+ident(
+  int_ref max "tp1/EnsCo.ml" 29 672 697 "tp1/EnsCo.ml" 29 672 700
+)
+"tp1/EnsCo.ml" 32 736 761 "tp1/EnsCo.ml" 32 736 771
+type(
+  bool
+)
+"tp1/EnsCo.ml" 32 736 772 "tp1/EnsCo.ml" 32 736 774
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"tp1/EnsCo.ml" 32 736 777 "tp1/EnsCo.ml" 32 736 778
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 32 736 748 "tp1/EnsCo.ml" 32 736 749
+)
+"tp1/EnsCo.ml" 32 736 779 "tp1/EnsCo.ml" 32 736 781
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"tp1/EnsCo.ml" 32 736 782 "tp1/EnsCo.ml" 32 736 785
+type(
+  element
+)
+ident(
+  int_ref min "tp1/EnsCo.ml" 29 672 693 "tp1/EnsCo.ml" 29 672 696
+)
+"tp1/EnsCo.ml" 32 736 775 "tp1/EnsCo.ml" 32 736 786
+type(
+  bool
+)
+"tp1/EnsCo.ml" 32 736 760 "tp1/EnsCo.ml" 32 736 787
+type(
+  bool
+)
+"tp1/EnsCo.ml" 32 736 791 "tp1/EnsCo.ml" 32 736 796
+type(
+  bool
+)
+"tp1/EnsCo.ml" 33 797 807 "tp1/EnsCo.ml" 33 797 809
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 33 797 821 "tp1/EnsCo.ml" 33 797 855
+)
+"tp1/EnsCo.ml" 33 797 810 "tp1/EnsCo.ml" 33 797 811
+type(
+  element
+)
+ident(
+  def e "tp1/EnsCo.ml" 33 797 821 "tp1/EnsCo.ml" 33 797 855
+)
+"tp1/EnsCo.ml" 33 797 812 "tp1/EnsCo.ml" 33 797 813
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 33 797 814 "tp1/EnsCo.ml" 33 797 816
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 33 797 821 "tp1/EnsCo.ml" 33 797 855
+)
+"tp1/EnsCo.ml" 33 797 801 "tp1/EnsCo.ml" 33 797 817
+type(
+  ab
+)
+"tp1/EnsCo.ml" 33 797 823 "tp1/EnsCo.ml" 33 797 826
+type(
+  ab -> element -> element -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 29 672 681 "tp1/EnsCo.ml" 29 672 684
+)
+"tp1/EnsCo.ml" 33 797 827 "tp1/EnsCo.ml" 33 797 829
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 33 797 807 "tp1/EnsCo.ml" 33 797 809
+)
+"tp1/EnsCo.ml" 33 797 830 "tp1/EnsCo.ml" 33 797 833
+type(
+  element
+)
+ident(
+  int_ref min "tp1/EnsCo.ml" 29 672 693 "tp1/EnsCo.ml" 29 672 696
+)
+"tp1/EnsCo.ml" 33 797 834 "tp1/EnsCo.ml" 33 797 835
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 33 797 810 "tp1/EnsCo.ml" 33 797 811
+)
+"tp1/EnsCo.ml" 33 797 822 "tp1/EnsCo.ml" 33 797 836
+type(
+  bool
+)
+"tp1/EnsCo.ml" 33 797 837 "tp1/EnsCo.ml" 33 797 839
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"tp1/EnsCo.ml" 33 797 841 "tp1/EnsCo.ml" 33 797 844
+type(
+  ab -> element -> element -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 29 672 681 "tp1/EnsCo.ml" 29 672 684
+)
+"tp1/EnsCo.ml" 33 797 845 "tp1/EnsCo.ml" 33 797 847
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 33 797 814 "tp1/EnsCo.ml" 33 797 816
+)
+"tp1/EnsCo.ml" 33 797 848 "tp1/EnsCo.ml" 33 797 849
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 33 797 810 "tp1/EnsCo.ml" 33 797 811
+)
+"tp1/EnsCo.ml" 33 797 850 "tp1/EnsCo.ml" 33 797 853
+type(
+  element
+)
+ident(
+  int_ref max "tp1/EnsCo.ml" 29 672 697 "tp1/EnsCo.ml" 29 672 700
+)
+"tp1/EnsCo.ml" 33 797 840 "tp1/EnsCo.ml" 33 797 854
+type(
+  bool
+)
+"tp1/EnsCo.ml" 33 797 821 "tp1/EnsCo.ml" 33 797 855
+type(
+  bool
+)
+"tp1/EnsCo.ml" 34 856 860 "tp1/EnsCo.ml" 34 856 861
+type(
+  ab
+)
+"tp1/EnsCo.ml" 34 856 865 "tp1/EnsCo.ml" 34 856 873
+type(
+  string -> bool
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tp1/EnsCo.ml" 34 856 874 "tp1/EnsCo.ml" 34 856 891
+type(
+  string
+)
+"tp1/EnsCo.ml" 34 856 865 "tp1/EnsCo.ml" 34 856 891
+type(
+  bool
+)
+"tp1/EnsCo.ml" 30 704 706 "tp1/EnsCo.ml" 34 856 891
+type(
+  bool
+)
+"tp1/EnsCo.ml" 29 672 687 "tp1/EnsCo.ml" 34 856 891
+type(
+  ab -> element -> element -> bool
+)
+"tp1/EnsCo.ml" 35 892 896 "tp1/EnsCo.ml" 35 892 899
+type(
+  ab -> element -> element -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 29 672 681 "tp1/EnsCo.ml" 29 672 684
+)
+"tp1/EnsCo.ml" 35 892 900 "tp1/EnsCo.ml" 35 892 902
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 28 643 666 "tp1/EnsCo.ml" 28 643 668
+)
+"tp1/EnsCo.ml" 35 892 903 "tp1/EnsCo.ml" 35 892 910
+type(
+  element
+)
+ident(
+  ext_ref Pervasives.min_int
+)
+"tp1/EnsCo.ml" 35 892 911 "tp1/EnsCo.ml" 35 892 918
+type(
+  element
+)
+ident(
+  ext_ref Pervasives.max_int
+)
+"tp1/EnsCo.ml" 35 892 896 "tp1/EnsCo.ml" 35 892 918
+type(
+  bool
+)
+"tp1/EnsCo.ml" 29 672 673 "tp1/EnsCo.ml" 35 892 918
+type(
+  bool
+)
+"tp1/EnsCo.ml" 28 643 657 "tp1/EnsCo.ml" 35 892 918
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 37 923 927 "tp1/EnsCo.ml" 37 923 938
+type(
+  ab -> bool
+)
+ident(
+  def est_abrprof "tp1/EnsCo.ml" 46 1243 1243 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 37 923 950 "tp1/EnsCo.ml" 37 923 952
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 38 956 957 "tp1/EnsCo.ml" 44 1215 1239
+)
+"tp1/EnsCo.ml" 38 956 965 "tp1/EnsCo.ml" 38 956 968
+type(
+  (ab * element_augmente * element_augmente) list -> bool
+)
+ident(
+  def aux "tp1/EnsCo.ml" 38 956 957 "tp1/EnsCo.ml" 44 1215 1239
+)
+"tp1/EnsCo.ml" 38 956 980 "tp1/EnsCo.ml" 38 956 981
+type(
+  (ab * element_augmente * element_augmente) list
+)
+ident(
+  def l "tp1/EnsCo.ml" 39 985 987 "tp1/EnsCo.ml" 43 1200 1214
+)
+"tp1/EnsCo.ml" 39 985 993 "tp1/EnsCo.ml" 39 985 994
+type(
+  (ab * element_augmente * element_augmente) list
+)
+ident(
+  int_ref l "tp1/EnsCo.ml" 38 956 980 "tp1/EnsCo.ml" 38 956 981
+)
+"tp1/EnsCo.ml" 40 1000 1004 "tp1/EnsCo.ml" 40 1000 1006
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 40 1000 1010 "tp1/EnsCo.ml" 40 1000 1014
+type(
+  bool
+)
+"tp1/EnsCo.ml" 41 1015 1020 "tp1/EnsCo.ml" 41 1015 1024
+type(
+  ab
+)
+"tp1/EnsCo.ml" 41 1015 1025 "tp1/EnsCo.ml" 41 1015 1028
+type(
+  element_augmente
+)
+ident(
+  def min "tp1/EnsCo.ml" 41 1015 1042 "tp1/EnsCo.ml" 41 1015 1048
+)
+"tp1/EnsCo.ml" 41 1015 1029 "tp1/EnsCo.ml" 41 1015 1032
+type(
+  element_augmente
+)
+ident(
+  def max "tp1/EnsCo.ml" 41 1015 1042 "tp1/EnsCo.ml" 41 1015 1048
+)
+"tp1/EnsCo.ml" 41 1015 1019 "tp1/EnsCo.ml" 41 1015 1033
+type(
+  ab * element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 41 1015 1036 "tp1/EnsCo.ml" 41 1015 1038
+type(
+  (ab * element_augmente * element_augmente) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 41 1015 1042 "tp1/EnsCo.ml" 41 1015 1048
+)
+"tp1/EnsCo.ml" 41 1015 1019 "tp1/EnsCo.ml" 41 1015 1038
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 41 1015 1042 "tp1/EnsCo.ml" 41 1015 1045
+type(
+  (ab * element_augmente * element_augmente) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 38 956 965 "tp1/EnsCo.ml" 38 956 968
+)
+"tp1/EnsCo.ml" 41 1015 1046 "tp1/EnsCo.ml" 41 1015 1048
+type(
+  (ab * element_augmente * element_augmente) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 41 1015 1036 "tp1/EnsCo.ml" 41 1015 1038
+)
+"tp1/EnsCo.ml" 41 1015 1042 "tp1/EnsCo.ml" 41 1015 1048
+type(
+  bool
+)
+"tp1/EnsCo.ml" 42 1049 1060 "tp1/EnsCo.ml" 42 1049 1062
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1199
+)
+"tp1/EnsCo.ml" 42 1049 1063 "tp1/EnsCo.ml" 42 1049 1064
+type(
+  element
+)
+ident(
+  def e "tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1199
+)
+"tp1/EnsCo.ml" 42 1049 1065 "tp1/EnsCo.ml" 42 1049 1066
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 42 1049 1067 "tp1/EnsCo.ml" 42 1049 1069
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1199
+)
+"tp1/EnsCo.ml" 42 1049 1054 "tp1/EnsCo.ml" 42 1049 1070
+type(
+  ab
+)
+"tp1/EnsCo.ml" 42 1049 1071 "tp1/EnsCo.ml" 42 1049 1074
+type(
+  element_augmente
+)
+ident(
+  def min "tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1199
+)
+"tp1/EnsCo.ml" 42 1049 1075 "tp1/EnsCo.ml" 42 1049 1078
+type(
+  element_augmente
+)
+ident(
+  def max "tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1199
+)
+"tp1/EnsCo.ml" 42 1049 1053 "tp1/EnsCo.ml" 42 1049 1079
+type(
+  ab * element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1081 "tp1/EnsCo.ml" 42 1049 1083
+type(
+  (ab * element_augmente * element_augmente) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1199
+)
+"tp1/EnsCo.ml" 42 1049 1053 "tp1/EnsCo.ml" 42 1049 1083
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 42 1049 1090 "tp1/EnsCo.ml" 42 1049 1096
+type(
+  element_augmente -> element_augmente -> bool
+)
+ident(
+  int_ref compar "tp1/EnsCo.ml" 8 185 189 "tp1/EnsCo.ml" 8 185 195
+)
+"tp1/EnsCo.ml" 42 1049 1097 "tp1/EnsCo.ml" 42 1049 1100
+type(
+  element_augmente
+)
+ident(
+  int_ref min "tp1/EnsCo.ml" 42 1049 1071 "tp1/EnsCo.ml" 42 1049 1074
+)
+"tp1/EnsCo.ml" 42 1049 1110 "tp1/EnsCo.ml" 42 1049 1111
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 42 1049 1063 "tp1/EnsCo.ml" 42 1049 1064
+)
+"tp1/EnsCo.ml" 42 1049 1101 "tp1/EnsCo.ml" 42 1049 1112
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1113
+type(
+  bool
+)
+"tp1/EnsCo.ml" 42 1049 1114 "tp1/EnsCo.ml" 42 1049 1116
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"tp1/EnsCo.ml" 42 1049 1118 "tp1/EnsCo.ml" 42 1049 1124
+type(
+  element_augmente -> element_augmente -> bool
+)
+ident(
+  int_ref compar "tp1/EnsCo.ml" 8 185 189 "tp1/EnsCo.ml" 8 185 195
+)
+"tp1/EnsCo.ml" 42 1049 1134 "tp1/EnsCo.ml" 42 1049 1135
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 42 1049 1063 "tp1/EnsCo.ml" 42 1049 1064
+)
+"tp1/EnsCo.ml" 42 1049 1125 "tp1/EnsCo.ml" 42 1049 1136
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1137 "tp1/EnsCo.ml" 42 1049 1140
+type(
+  element_augmente
+)
+ident(
+  int_ref max "tp1/EnsCo.ml" 42 1049 1075 "tp1/EnsCo.ml" 42 1049 1078
+)
+"tp1/EnsCo.ml" 42 1049 1117 "tp1/EnsCo.ml" 42 1049 1141
+type(
+  bool
+)
+"tp1/EnsCo.ml" 42 1049 1089 "tp1/EnsCo.ml" 42 1049 1141
+type(
+  bool
+)
+"tp1/EnsCo.ml" 42 1049 1146 "tp1/EnsCo.ml" 42 1049 1149
+type(
+  (ab * element_augmente * element_augmente) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 38 956 965 "tp1/EnsCo.ml" 38 956 968
+)
+"tp1/EnsCo.ml" 42 1049 1152 "tp1/EnsCo.ml" 42 1049 1154
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 42 1049 1060 "tp1/EnsCo.ml" 42 1049 1062
+)
+"tp1/EnsCo.ml" 42 1049 1155 "tp1/EnsCo.ml" 42 1049 1158
+type(
+  element_augmente
+)
+ident(
+  int_ref min "tp1/EnsCo.ml" 42 1049 1071 "tp1/EnsCo.ml" 42 1049 1074
+)
+"tp1/EnsCo.ml" 42 1049 1168 "tp1/EnsCo.ml" 42 1049 1169
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 42 1049 1063 "tp1/EnsCo.ml" 42 1049 1064
+)
+"tp1/EnsCo.ml" 42 1049 1159 "tp1/EnsCo.ml" 42 1049 1170
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1151 "tp1/EnsCo.ml" 42 1049 1171
+type(
+  ab * element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1174 "tp1/EnsCo.ml" 42 1049 1176
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 42 1049 1067 "tp1/EnsCo.ml" 42 1049 1069
+)
+"tp1/EnsCo.ml" 42 1049 1186 "tp1/EnsCo.ml" 42 1049 1187
+type(
+  element
+)
+ident(
+  int_ref e "tp1/EnsCo.ml" 42 1049 1063 "tp1/EnsCo.ml" 42 1049 1064
+)
+"tp1/EnsCo.ml" 42 1049 1177 "tp1/EnsCo.ml" 42 1049 1188
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1189 "tp1/EnsCo.ml" 42 1049 1192
+type(
+  element_augmente
+)
+ident(
+  int_ref max "tp1/EnsCo.ml" 42 1049 1075 "tp1/EnsCo.ml" 42 1049 1078
+)
+"tp1/EnsCo.ml" 42 1049 1173 "tp1/EnsCo.ml" 42 1049 1193
+type(
+  ab * element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 42 1049 1195 "tp1/EnsCo.ml" 42 1049 1197
+type(
+  (ab * element_augmente * element_augmente) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 42 1049 1081 "tp1/EnsCo.ml" 42 1049 1083
+)
+"tp1/EnsCo.ml" 42 1049 1173 "tp1/EnsCo.ml" 42 1049 1197
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 42 1049 1150 "tp1/EnsCo.ml" 42 1049 1198
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 42 1049 1145 "tp1/EnsCo.ml" 42 1049 1199
+type(
+  bool
+)
+"tp1/EnsCo.ml" 43 1200 1204 "tp1/EnsCo.ml" 43 1200 1205
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 43 1200 1209 "tp1/EnsCo.ml" 43 1200 1214
+type(
+  bool
+)
+"tp1/EnsCo.ml" 39 985 987 "tp1/EnsCo.ml" 43 1200 1214
+type(
+  bool
+)
+"tp1/EnsCo.ml" 38 956 971 "tp1/EnsCo.ml" 43 1200 1214
+type(
+  (ab * element_augmente * element_augmente) list -> bool
+)
+"tp1/EnsCo.ml" 44 1215 1220 "tp1/EnsCo.ml" 44 1215 1223
+type(
+  (ab * element_augmente * element_augmente) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 38 956 965 "tp1/EnsCo.ml" 38 956 968
+)
+"tp1/EnsCo.ml" 44 1215 1226 "tp1/EnsCo.ml" 44 1215 1228
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 37 923 950 "tp1/EnsCo.ml" 37 923 952
+)
+"tp1/EnsCo.ml" 44 1215 1229 "tp1/EnsCo.ml" 44 1215 1232
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 44 1215 1233 "tp1/EnsCo.ml" 44 1215 1236
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 44 1215 1225 "tp1/EnsCo.ml" 44 1215 1237
+type(
+  ab * element_augmente * element_augmente
+)
+"tp1/EnsCo.ml" 44 1215 1224 "tp1/EnsCo.ml" 44 1215 1238
+type(
+  (ab * element_augmente * element_augmente) list
+)
+"tp1/EnsCo.ml" 44 1215 1219 "tp1/EnsCo.ml" 44 1215 1239
+type(
+  bool
+)
+"tp1/EnsCo.ml" 38 956 957 "tp1/EnsCo.ml" 44 1215 1239
+type(
+  bool
+)
+"tp1/EnsCo.ml" 37 923 941 "tp1/EnsCo.ml" 44 1215 1239
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 46 1243 1247 "tp1/EnsCo.ml" 46 1243 1258
+type(
+  ab -> bool
+)
+ident(
+  def racine_noir "tp1/EnsCo.ml" 54 1407 1407 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 46 1243 1270 "tp1/EnsCo.ml" 46 1243 1272
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 47 1276 1277 "tp1/EnsCo.ml" 51 1367 1402
+)
+"tp1/EnsCo.ml" 47 1276 1283 "tp1/EnsCo.ml" 47 1276 1285
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 46 1243 1270 "tp1/EnsCo.ml" 46 1243 1272
+)
+"tp1/EnsCo.ml" 48 1291 1294 "tp1/EnsCo.ml" 48 1291 1298
+type(
+  ab
+)
+"tp1/EnsCo.ml" 48 1291 1302 "tp1/EnsCo.ml" 48 1291 1306
+type(
+  bool
+)
+"tp1/EnsCo.ml" 49 1307 1316 "tp1/EnsCo.ml" 49 1307 1317
+type(
+  ab
+)
+"tp1/EnsCo.ml" 49 1307 1318 "tp1/EnsCo.ml" 49 1307 1319
+type(
+  element
+)
+"tp1/EnsCo.ml" 49 1307 1320 "tp1/EnsCo.ml" 49 1307 1325
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 49 1307 1326 "tp1/EnsCo.ml" 49 1307 1327
+type(
+  ab
+)
+"tp1/EnsCo.ml" 49 1307 1310 "tp1/EnsCo.ml" 49 1307 1328
+type(
+  ab
+)
+"tp1/EnsCo.ml" 49 1307 1332 "tp1/EnsCo.ml" 49 1307 1337
+type(
+  bool
+)
+"tp1/EnsCo.ml" 50 1338 1347 "tp1/EnsCo.ml" 50 1338 1348
+type(
+  ab
+)
+"tp1/EnsCo.ml" 50 1338 1349 "tp1/EnsCo.ml" 50 1338 1350
+type(
+  element
+)
+"tp1/EnsCo.ml" 50 1338 1351 "tp1/EnsCo.ml" 50 1338 1355
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 50 1338 1356 "tp1/EnsCo.ml" 50 1338 1357
+type(
+  ab
+)
+"tp1/EnsCo.ml" 50 1338 1341 "tp1/EnsCo.ml" 50 1338 1358
+type(
+  ab
+)
+"tp1/EnsCo.ml" 50 1338 1362 "tp1/EnsCo.ml" 50 1338 1366
+type(
+  bool
+)
+"tp1/EnsCo.ml" 51 1367 1370 "tp1/EnsCo.ml" 51 1367 1371
+type(
+  ab
+)
+"tp1/EnsCo.ml" 51 1367 1375 "tp1/EnsCo.ml" 51 1367 1383
+type(
+  string -> bool
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tp1/EnsCo.ml" 51 1367 1384 "tp1/EnsCo.ml" 51 1367 1402
+type(
+  string
+)
+"tp1/EnsCo.ml" 51 1367 1375 "tp1/EnsCo.ml" 51 1367 1402
+type(
+  bool
+)
+"tp1/EnsCo.ml" 47 1276 1277 "tp1/EnsCo.ml" 51 1367 1402
+type(
+  bool
+)
+"tp1/EnsCo.ml" 46 1243 1261 "tp1/EnsCo.ml" 51 1367 1402
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 54 1407 1411 "tp1/EnsCo.ml" 54 1407 1422
+type(
+  ab -> bool
+)
+ident(
+  def noeud_rouge "tp1/EnsCo.ml" 64 1706 1706 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 54 1407 1434 "tp1/EnsCo.ml" 54 1407 1436
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 55 1440 1441 "tp1/EnsCo.ml" 62 1683 1702
+)
+"tp1/EnsCo.ml" 55 1440 1449 "tp1/EnsCo.ml" 55 1440 1452
+type(
+  (ab * couleur) list -> bool
+)
+ident(
+  def aux "tp1/EnsCo.ml" 55 1440 1441 "tp1/EnsCo.ml" 62 1683 1702
+)
+"tp1/EnsCo.ml" 55 1440 1464 "tp1/EnsCo.ml" 55 1440 1465
+type(
+  (ab * couleur) list
+)
+ident(
+  def l "tp1/EnsCo.ml" 56 1469 1471 "tp1/EnsCo.ml" 61 1668 1682
+)
+"tp1/EnsCo.ml" 56 1469 1477 "tp1/EnsCo.ml" 56 1469 1478
+type(
+  (ab * couleur) list
+)
+ident(
+  int_ref l "tp1/EnsCo.ml" 55 1440 1464 "tp1/EnsCo.ml" 55 1440 1465
+)
+"tp1/EnsCo.ml" 57 1484 1488 "tp1/EnsCo.ml" 57 1484 1490
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 57 1484 1494 "tp1/EnsCo.ml" 57 1484 1498
+type(
+  bool
+)
+"tp1/EnsCo.ml" 58 1499 1504 "tp1/EnsCo.ml" 58 1499 1508
+type(
+  ab
+)
+"tp1/EnsCo.ml" 58 1499 1509 "tp1/EnsCo.ml" 58 1499 1510
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 58 1499 1503 "tp1/EnsCo.ml" 58 1499 1511
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 58 1499 1513 "tp1/EnsCo.ml" 58 1499 1515
+type(
+  (ab * couleur) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 58 1499 1519 "tp1/EnsCo.ml" 58 1499 1525
+)
+"tp1/EnsCo.ml" 58 1499 1503 "tp1/EnsCo.ml" 58 1499 1515
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 58 1499 1519 "tp1/EnsCo.ml" 58 1499 1522
+type(
+  (ab * couleur) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 55 1440 1449 "tp1/EnsCo.ml" 55 1440 1452
+)
+"tp1/EnsCo.ml" 58 1499 1523 "tp1/EnsCo.ml" 58 1499 1525
+type(
+  (ab * couleur) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 58 1499 1513 "tp1/EnsCo.ml" 58 1499 1515
+)
+"tp1/EnsCo.ml" 58 1499 1519 "tp1/EnsCo.ml" 58 1499 1525
+type(
+  bool
+)
+"tp1/EnsCo.ml" 59 1526 1537 "tp1/EnsCo.ml" 59 1526 1539
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 59 1526 1561 "tp1/EnsCo.ml" 59 1526 1593
+)
+"tp1/EnsCo.ml" 59 1526 1540 "tp1/EnsCo.ml" 59 1526 1541
+type(
+  element
+)
+"tp1/EnsCo.ml" 59 1526 1542 "tp1/EnsCo.ml" 59 1526 1546
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 59 1526 1547 "tp1/EnsCo.ml" 59 1526 1549
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 59 1526 1561 "tp1/EnsCo.ml" 59 1526 1593
+)
+"tp1/EnsCo.ml" 59 1526 1531 "tp1/EnsCo.ml" 59 1526 1550
+type(
+  ab
+)
+"tp1/EnsCo.ml" 59 1526 1551 "tp1/EnsCo.ml" 59 1526 1552
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 59 1526 1530 "tp1/EnsCo.ml" 59 1526 1553
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 59 1526 1555 "tp1/EnsCo.ml" 59 1526 1557
+type(
+  (ab * couleur) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 59 1526 1561 "tp1/EnsCo.ml" 59 1526 1593
+)
+"tp1/EnsCo.ml" 59 1526 1530 "tp1/EnsCo.ml" 59 1526 1557
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 59 1526 1562 "tp1/EnsCo.ml" 59 1526 1565
+type(
+  (ab * couleur) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 55 1440 1449 "tp1/EnsCo.ml" 55 1440 1452
+)
+"tp1/EnsCo.ml" 59 1526 1568 "tp1/EnsCo.ml" 59 1526 1570
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 59 1526 1537 "tp1/EnsCo.ml" 59 1526 1539
+)
+"tp1/EnsCo.ml" 59 1526 1571 "tp1/EnsCo.ml" 59 1526 1575
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 59 1526 1567 "tp1/EnsCo.ml" 59 1526 1576
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 59 1526 1579 "tp1/EnsCo.ml" 59 1526 1581
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 59 1526 1547 "tp1/EnsCo.ml" 59 1526 1549
+)
+"tp1/EnsCo.ml" 59 1526 1582 "tp1/EnsCo.ml" 59 1526 1586
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 59 1526 1578 "tp1/EnsCo.ml" 59 1526 1587
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 59 1526 1589 "tp1/EnsCo.ml" 59 1526 1591
+type(
+  (ab * couleur) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 59 1526 1555 "tp1/EnsCo.ml" 59 1526 1557
+)
+"tp1/EnsCo.ml" 59 1526 1578 "tp1/EnsCo.ml" 59 1526 1591
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 59 1526 1566 "tp1/EnsCo.ml" 59 1526 1592
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 59 1526 1561 "tp1/EnsCo.ml" 59 1526 1593
+type(
+  bool
+)
+"tp1/EnsCo.ml" 60 1594 1605 "tp1/EnsCo.ml" 60 1594 1607
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 60 1594 1633 "tp1/EnsCo.ml" 60 1594 1667
+)
+"tp1/EnsCo.ml" 60 1594 1608 "tp1/EnsCo.ml" 60 1594 1609
+type(
+  element
+)
+"tp1/EnsCo.ml" 60 1594 1610 "tp1/EnsCo.ml" 60 1594 1615
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 60 1594 1616 "tp1/EnsCo.ml" 60 1594 1618
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 60 1594 1633 "tp1/EnsCo.ml" 60 1594 1667
+)
+"tp1/EnsCo.ml" 60 1594 1599 "tp1/EnsCo.ml" 60 1594 1619
+type(
+  ab
+)
+"tp1/EnsCo.ml" 60 1594 1620 "tp1/EnsCo.ml" 60 1594 1624
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 60 1594 1598 "tp1/EnsCo.ml" 60 1594 1625
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 60 1594 1627 "tp1/EnsCo.ml" 60 1594 1629
+type(
+  (ab * couleur) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 60 1594 1633 "tp1/EnsCo.ml" 60 1594 1667
+)
+"tp1/EnsCo.ml" 60 1594 1598 "tp1/EnsCo.ml" 60 1594 1629
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 60 1594 1634 "tp1/EnsCo.ml" 60 1594 1637
+type(
+  (ab * couleur) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 55 1440 1449 "tp1/EnsCo.ml" 55 1440 1452
+)
+"tp1/EnsCo.ml" 60 1594 1640 "tp1/EnsCo.ml" 60 1594 1642
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 60 1594 1605 "tp1/EnsCo.ml" 60 1594 1607
+)
+"tp1/EnsCo.ml" 60 1594 1643 "tp1/EnsCo.ml" 60 1594 1648
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 60 1594 1639 "tp1/EnsCo.ml" 60 1594 1649
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 60 1594 1652 "tp1/EnsCo.ml" 60 1594 1654
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 60 1594 1616 "tp1/EnsCo.ml" 60 1594 1618
+)
+"tp1/EnsCo.ml" 60 1594 1655 "tp1/EnsCo.ml" 60 1594 1660
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 60 1594 1651 "tp1/EnsCo.ml" 60 1594 1661
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 60 1594 1663 "tp1/EnsCo.ml" 60 1594 1665
+type(
+  (ab * couleur) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 60 1594 1627 "tp1/EnsCo.ml" 60 1594 1629
+)
+"tp1/EnsCo.ml" 60 1594 1651 "tp1/EnsCo.ml" 60 1594 1665
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 60 1594 1638 "tp1/EnsCo.ml" 60 1594 1666
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 60 1594 1633 "tp1/EnsCo.ml" 60 1594 1667
+type(
+  bool
+)
+"tp1/EnsCo.ml" 61 1668 1672 "tp1/EnsCo.ml" 61 1668 1673
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 61 1668 1677 "tp1/EnsCo.ml" 61 1668 1682
+type(
+  bool
+)
+"tp1/EnsCo.ml" 56 1469 1471 "tp1/EnsCo.ml" 61 1668 1682
+type(
+  bool
+)
+"tp1/EnsCo.ml" 55 1440 1455 "tp1/EnsCo.ml" 61 1668 1682
+type(
+  (ab * couleur) list -> bool
+)
+"tp1/EnsCo.ml" 62 1683 1687 "tp1/EnsCo.ml" 62 1683 1690
+type(
+  (ab * couleur) list -> bool
+)
+ident(
+  int_ref aux "tp1/EnsCo.ml" 55 1440 1449 "tp1/EnsCo.ml" 55 1440 1452
+)
+"tp1/EnsCo.ml" 62 1683 1693 "tp1/EnsCo.ml" 62 1683 1695
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 54 1407 1434 "tp1/EnsCo.ml" 54 1407 1436
+)
+"tp1/EnsCo.ml" 62 1683 1696 "tp1/EnsCo.ml" 62 1683 1700
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 62 1683 1692 "tp1/EnsCo.ml" 62 1683 1701
+type(
+  ab * couleur
+)
+"tp1/EnsCo.ml" 62 1683 1691 "tp1/EnsCo.ml" 62 1683 1702
+type(
+  (ab * couleur) list
+)
+"tp1/EnsCo.ml" 62 1683 1687 "tp1/EnsCo.ml" 62 1683 1702
+type(
+  bool
+)
+"tp1/EnsCo.ml" 55 1440 1441 "tp1/EnsCo.ml" 62 1683 1702
+type(
+  bool
+)
+"tp1/EnsCo.ml" 54 1407 1425 "tp1/EnsCo.ml" 62 1683 1702
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 64 1706 1710 "tp1/EnsCo.ml" 64 1706 1723
+type(
+  ab -> bool
+)
+ident(
+  def nb_noeud_noir "tp1/EnsCo.ml" 81 2341 2341 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 64 1706 1735 "tp1/EnsCo.ml" 64 1706 1737
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 65 1741 1742 "tp1/EnsCo.ml" 79 2289 2337
+)
+"tp1/EnsCo.ml" 65 1741 1750 "tp1/EnsCo.ml" 65 1741 1761
+type(
+  ab -> int -> int
+)
+ident(
+  def calcul_noir "tp1/EnsCo.ml" 65 1741 1742 "tp1/EnsCo.ml" 79 2289 2337
+)
+"tp1/EnsCo.ml" 65 1741 1768 "tp1/EnsCo.ml" 65 1741 1770
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 65 1741 1771 "tp1/EnsCo.ml" 71 1964 2000
+)
+"tp1/EnsCo.ml" 65 1741 1771 "tp1/EnsCo.ml" 65 1741 1774
+type(
+  int
+)
+ident(
+  def acc "tp1/EnsCo.ml" 66 1778 1780 "tp1/EnsCo.ml" 71 1964 2000
+)
+"tp1/EnsCo.ml" 66 1778 1786 "tp1/EnsCo.ml" 66 1778 1788
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 65 1741 1768 "tp1/EnsCo.ml" 65 1741 1770
+)
+"tp1/EnsCo.ml" 67 1794 1798 "tp1/EnsCo.ml" 67 1794 1802
+type(
+  ab
+)
+"tp1/EnsCo.ml" 67 1794 1806 "tp1/EnsCo.ml" 67 1794 1809
+type(
+  int
+)
+ident(
+  int_ref acc "tp1/EnsCo.ml" 65 1741 1771 "tp1/EnsCo.ml" 65 1741 1774
+)
+"tp1/EnsCo.ml" 68 1810 1820 "tp1/EnsCo.ml" 68 1810 1822
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 68 1810 1837 "tp1/EnsCo.ml" 68 1810 1855
+)
+"tp1/EnsCo.ml" 68 1810 1823 "tp1/EnsCo.ml" 68 1810 1824
+type(
+  element
+)
+"tp1/EnsCo.ml" 68 1810 1825 "tp1/EnsCo.ml" 68 1810 1830
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 68 1810 1831 "tp1/EnsCo.ml" 68 1810 1832
+type(
+  ab
+)
+"tp1/EnsCo.ml" 68 1810 1814 "tp1/EnsCo.ml" 68 1810 1833
+type(
+  ab
+)
+"tp1/EnsCo.ml" 68 1810 1837 "tp1/EnsCo.ml" 68 1810 1848
+type(
+  ab -> int -> int
+)
+ident(
+  int_ref calcul_noir "tp1/EnsCo.ml" 65 1741 1750 "tp1/EnsCo.ml" 65 1741 1761
+)
+"tp1/EnsCo.ml" 68 1810 1849 "tp1/EnsCo.ml" 68 1810 1851
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 68 1810 1820 "tp1/EnsCo.ml" 68 1810 1822
+)
+"tp1/EnsCo.ml" 68 1810 1852 "tp1/EnsCo.ml" 68 1810 1855
+type(
+  int
+)
+ident(
+  int_ref acc "tp1/EnsCo.ml" 65 1741 1771 "tp1/EnsCo.ml" 65 1741 1774
+)
+"tp1/EnsCo.ml" 68 1810 1837 "tp1/EnsCo.ml" 68 1810 1855
+type(
+  int
+)
+"tp1/EnsCo.ml" 69 1856 1866 "tp1/EnsCo.ml" 69 1856 1868
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 69 1856 1882 "tp1/EnsCo.ml" 69 1856 1906
+)
+"tp1/EnsCo.ml" 69 1856 1869 "tp1/EnsCo.ml" 69 1856 1870
+type(
+  element
+)
+"tp1/EnsCo.ml" 69 1856 1871 "tp1/EnsCo.ml" 69 1856 1875
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 69 1856 1876 "tp1/EnsCo.ml" 69 1856 1877
+type(
+  ab
+)
+"tp1/EnsCo.ml" 69 1856 1860 "tp1/EnsCo.ml" 69 1856 1878
+type(
+  ab
+)
+"tp1/EnsCo.ml" 69 1856 1882 "tp1/EnsCo.ml" 69 1856 1893
+type(
+  ab -> int -> int
+)
+ident(
+  int_ref calcul_noir "tp1/EnsCo.ml" 65 1741 1750 "tp1/EnsCo.ml" 65 1741 1761
+)
+"tp1/EnsCo.ml" 69 1856 1894 "tp1/EnsCo.ml" 69 1856 1896
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 69 1856 1866 "tp1/EnsCo.ml" 69 1856 1868
+)
+"tp1/EnsCo.ml" 69 1856 1898 "tp1/EnsCo.ml" 69 1856 1901
+type(
+  int
+)
+ident(
+  int_ref acc "tp1/EnsCo.ml" 65 1741 1771 "tp1/EnsCo.ml" 65 1741 1774
+)
+"tp1/EnsCo.ml" 69 1856 1902 "tp1/EnsCo.ml" 69 1856 1903
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tp1/EnsCo.ml" 69 1856 1904 "tp1/EnsCo.ml" 69 1856 1905
+type(
+  int
+)
+"tp1/EnsCo.ml" 69 1856 1897 "tp1/EnsCo.ml" 69 1856 1906
+type(
+  int
+)
+"tp1/EnsCo.ml" 69 1856 1882 "tp1/EnsCo.ml" 69 1856 1906
+type(
+  int
+)
+"tp1/EnsCo.ml" 70 1907 1917 "tp1/EnsCo.ml" 70 1907 1919
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 70 1907 1939 "tp1/EnsCo.ml" 70 1907 1963
+)
+"tp1/EnsCo.ml" 70 1907 1920 "tp1/EnsCo.ml" 70 1907 1921
+type(
+  element
+)
+"tp1/EnsCo.ml" 70 1907 1922 "tp1/EnsCo.ml" 70 1907 1932
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 70 1907 1933 "tp1/EnsCo.ml" 70 1907 1934
+type(
+  ab
+)
+"tp1/EnsCo.ml" 70 1907 1911 "tp1/EnsCo.ml" 70 1907 1935
+type(
+  ab
+)
+"tp1/EnsCo.ml" 70 1907 1939 "tp1/EnsCo.ml" 70 1907 1950
+type(
+  ab -> int -> int
+)
+ident(
+  int_ref calcul_noir "tp1/EnsCo.ml" 65 1741 1750 "tp1/EnsCo.ml" 65 1741 1761
+)
+"tp1/EnsCo.ml" 70 1907 1951 "tp1/EnsCo.ml" 70 1907 1953
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 70 1907 1917 "tp1/EnsCo.ml" 70 1907 1919
+)
+"tp1/EnsCo.ml" 70 1907 1955 "tp1/EnsCo.ml" 70 1907 1958
+type(
+  int
+)
+ident(
+  int_ref acc "tp1/EnsCo.ml" 65 1741 1771 "tp1/EnsCo.ml" 65 1741 1774
+)
+"tp1/EnsCo.ml" 70 1907 1959 "tp1/EnsCo.ml" 70 1907 1960
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tp1/EnsCo.ml" 70 1907 1961 "tp1/EnsCo.ml" 70 1907 1962
+type(
+  int
+)
+"tp1/EnsCo.ml" 70 1907 1954 "tp1/EnsCo.ml" 70 1907 1963
+type(
+  int
+)
+"tp1/EnsCo.ml" 70 1907 1939 "tp1/EnsCo.ml" 70 1907 1963
+type(
+  int
+)
+"tp1/EnsCo.ml" 71 1964 1968 "tp1/EnsCo.ml" 71 1964 1969
+type(
+  ab
+)
+"tp1/EnsCo.ml" 71 1964 1973 "tp1/EnsCo.ml" 71 1964 1981
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tp1/EnsCo.ml" 71 1964 1982 "tp1/EnsCo.ml" 71 1964 2000
+type(
+  string
+)
+"tp1/EnsCo.ml" 71 1964 1973 "tp1/EnsCo.ml" 71 1964 2000
+type(
+  int
+)
+"tp1/EnsCo.ml" 66 1778 1780 "tp1/EnsCo.ml" 71 1964 2000
+type(
+  int
+)
+"tp1/EnsCo.ml" 65 1741 1764 "tp1/EnsCo.ml" 71 1964 2000
+type(
+  ab -> int -> int
+)
+"tp1/EnsCo.ml" 72 2001 2006 "tp1/EnsCo.ml" 72 2001 2020
+type(
+  (ab * int) list -> int -> bool
+)
+ident(
+  def parcours_arbre "tp1/EnsCo.ml" 65 1741 1742 "tp1/EnsCo.ml" 79 2289 2337
+)
+"tp1/EnsCo.ml" 72 2001 2027 "tp1/EnsCo.ml" 72 2001 2028
+type(
+  (ab * int) list
+)
+ident(
+  def l "tp1/EnsCo.ml" 72 2001 2029 "tp1/EnsCo.ml" 78 2274 2288
+)
+"tp1/EnsCo.ml" 72 2001 2029 "tp1/EnsCo.ml" 72 2001 2030
+type(
+  int
+)
+ident(
+  def n "tp1/EnsCo.ml" 73 2034 2036 "tp1/EnsCo.ml" 78 2274 2288
+)
+"tp1/EnsCo.ml" 73 2034 2042 "tp1/EnsCo.ml" 73 2034 2043
+type(
+  (ab * int) list
+)
+ident(
+  int_ref l "tp1/EnsCo.ml" 72 2001 2027 "tp1/EnsCo.ml" 72 2001 2028
+)
+"tp1/EnsCo.ml" 74 2049 2053 "tp1/EnsCo.ml" 74 2049 2055
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 74 2049 2059 "tp1/EnsCo.ml" 74 2049 2063
+type(
+  bool
+)
+"tp1/EnsCo.ml" 75 2064 2069 "tp1/EnsCo.ml" 75 2064 2073
+type(
+  ab
+)
+"tp1/EnsCo.ml" 75 2064 2074 "tp1/EnsCo.ml" 75 2064 2075
+type(
+  int
+)
+ident(
+  def x "tp1/EnsCo.ml" 75 2064 2086 "tp1/EnsCo.ml" 75 2064 2118
+)
+"tp1/EnsCo.ml" 75 2064 2068 "tp1/EnsCo.ml" 75 2064 2076
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 75 2064 2078 "tp1/EnsCo.ml" 75 2064 2080
+type(
+  (ab * int) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 75 2064 2086 "tp1/EnsCo.ml" 75 2064 2118
+)
+"tp1/EnsCo.ml" 75 2064 2068 "tp1/EnsCo.ml" 75 2064 2080
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 75 2064 2087 "tp1/EnsCo.ml" 75 2064 2088
+type(
+  int
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 75 2064 2074 "tp1/EnsCo.ml" 75 2064 2075
+)
+"tp1/EnsCo.ml" 75 2064 2089 "tp1/EnsCo.ml" 75 2064 2090
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"tp1/EnsCo.ml" 75 2064 2091 "tp1/EnsCo.ml" 75 2064 2092
+type(
+  int
+)
+ident(
+  int_ref n "tp1/EnsCo.ml" 72 2001 2029 "tp1/EnsCo.ml" 72 2001 2030
+)
+"tp1/EnsCo.ml" 75 2064 2086 "tp1/EnsCo.ml" 75 2064 2093
+type(
+  bool
+)
+"tp1/EnsCo.ml" 75 2064 2098 "tp1/EnsCo.ml" 75 2064 2112
+type(
+  (ab * int) list -> int -> bool
+)
+ident(
+  int_ref parcours_arbre "tp1/EnsCo.ml" 72 2001 2006 "tp1/EnsCo.ml" 72 2001 2020
+)
+"tp1/EnsCo.ml" 75 2064 2113 "tp1/EnsCo.ml" 75 2064 2115
+type(
+  (ab * int) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 75 2064 2078 "tp1/EnsCo.ml" 75 2064 2080
+)
+"tp1/EnsCo.ml" 75 2064 2116 "tp1/EnsCo.ml" 75 2064 2117
+type(
+  int
+)
+ident(
+  int_ref n "tp1/EnsCo.ml" 72 2001 2029 "tp1/EnsCo.ml" 72 2001 2030
+)
+"tp1/EnsCo.ml" 75 2064 2097 "tp1/EnsCo.ml" 75 2064 2118
+type(
+  bool
+)
+"tp1/EnsCo.ml" 76 2119 2130 "tp1/EnsCo.ml" 76 2119 2132
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 76 2119 2154 "tp1/EnsCo.ml" 76 2119 2197
+)
+"tp1/EnsCo.ml" 76 2119 2133 "tp1/EnsCo.ml" 76 2119 2134
+type(
+  element
+)
+"tp1/EnsCo.ml" 76 2119 2135 "tp1/EnsCo.ml" 76 2119 2139
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 76 2119 2140 "tp1/EnsCo.ml" 76 2119 2142
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 76 2119 2154 "tp1/EnsCo.ml" 76 2119 2197
+)
+"tp1/EnsCo.ml" 76 2119 2124 "tp1/EnsCo.ml" 76 2119 2143
+type(
+  ab
+)
+"tp1/EnsCo.ml" 76 2119 2144 "tp1/EnsCo.ml" 76 2119 2145
+type(
+  int
+)
+ident(
+  def x "tp1/EnsCo.ml" 76 2119 2154 "tp1/EnsCo.ml" 76 2119 2197
+)
+"tp1/EnsCo.ml" 76 2119 2123 "tp1/EnsCo.ml" 76 2119 2146
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 76 2119 2148 "tp1/EnsCo.ml" 76 2119 2150
+type(
+  (ab * int) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 76 2119 2154 "tp1/EnsCo.ml" 76 2119 2197
+)
+"tp1/EnsCo.ml" 76 2119 2123 "tp1/EnsCo.ml" 76 2119 2150
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 76 2119 2155 "tp1/EnsCo.ml" 76 2119 2169
+type(
+  (ab * int) list -> int -> bool
+)
+ident(
+  int_ref parcours_arbre "tp1/EnsCo.ml" 72 2001 2006 "tp1/EnsCo.ml" 72 2001 2020
+)
+"tp1/EnsCo.ml" 76 2119 2172 "tp1/EnsCo.ml" 76 2119 2174
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 76 2119 2130 "tp1/EnsCo.ml" 76 2119 2132
+)
+"tp1/EnsCo.ml" 76 2119 2175 "tp1/EnsCo.ml" 76 2119 2176
+type(
+  int
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 76 2119 2144 "tp1/EnsCo.ml" 76 2119 2145
+)
+"tp1/EnsCo.ml" 76 2119 2176 "tp1/EnsCo.ml" 76 2119 2177
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tp1/EnsCo.ml" 76 2119 2177 "tp1/EnsCo.ml" 76 2119 2178
+type(
+  int
+)
+"tp1/EnsCo.ml" 76 2119 2175 "tp1/EnsCo.ml" 76 2119 2178
+type(
+  int
+)
+"tp1/EnsCo.ml" 76 2119 2171 "tp1/EnsCo.ml" 76 2119 2179
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 76 2119 2182 "tp1/EnsCo.ml" 76 2119 2184
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 76 2119 2140 "tp1/EnsCo.ml" 76 2119 2142
+)
+"tp1/EnsCo.ml" 76 2119 2185 "tp1/EnsCo.ml" 76 2119 2186
+type(
+  int
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 76 2119 2144 "tp1/EnsCo.ml" 76 2119 2145
+)
+"tp1/EnsCo.ml" 76 2119 2186 "tp1/EnsCo.ml" 76 2119 2187
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tp1/EnsCo.ml" 76 2119 2187 "tp1/EnsCo.ml" 76 2119 2188
+type(
+  int
+)
+"tp1/EnsCo.ml" 76 2119 2185 "tp1/EnsCo.ml" 76 2119 2188
+type(
+  int
+)
+"tp1/EnsCo.ml" 76 2119 2181 "tp1/EnsCo.ml" 76 2119 2189
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 76 2119 2191 "tp1/EnsCo.ml" 76 2119 2193
+type(
+  (ab * int) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 76 2119 2148 "tp1/EnsCo.ml" 76 2119 2150
+)
+"tp1/EnsCo.ml" 76 2119 2181 "tp1/EnsCo.ml" 76 2119 2193
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 76 2119 2170 "tp1/EnsCo.ml" 76 2119 2194
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 76 2119 2195 "tp1/EnsCo.ml" 76 2119 2196
+type(
+  int
+)
+ident(
+  int_ref n "tp1/EnsCo.ml" 72 2001 2029 "tp1/EnsCo.ml" 72 2001 2030
+)
+"tp1/EnsCo.ml" 76 2119 2154 "tp1/EnsCo.ml" 76 2119 2197
+type(
+  bool
+)
+"tp1/EnsCo.ml" 77 2198 2209 "tp1/EnsCo.ml" 77 2198 2211
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 77 2198 2234 "tp1/EnsCo.ml" 77 2198 2273
+)
+"tp1/EnsCo.ml" 77 2198 2212 "tp1/EnsCo.ml" 77 2198 2213
+type(
+  element
+)
+"tp1/EnsCo.ml" 77 2198 2214 "tp1/EnsCo.ml" 77 2198 2219
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 77 2198 2220 "tp1/EnsCo.ml" 77 2198 2222
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 77 2198 2234 "tp1/EnsCo.ml" 77 2198 2273
+)
+"tp1/EnsCo.ml" 77 2198 2203 "tp1/EnsCo.ml" 77 2198 2223
+type(
+  ab
+)
+"tp1/EnsCo.ml" 77 2198 2224 "tp1/EnsCo.ml" 77 2198 2225
+type(
+  int
+)
+ident(
+  def x "tp1/EnsCo.ml" 77 2198 2234 "tp1/EnsCo.ml" 77 2198 2273
+)
+"tp1/EnsCo.ml" 77 2198 2202 "tp1/EnsCo.ml" 77 2198 2226
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 77 2198 2228 "tp1/EnsCo.ml" 77 2198 2230
+type(
+  (ab * int) list
+)
+ident(
+  def ll "tp1/EnsCo.ml" 77 2198 2234 "tp1/EnsCo.ml" 77 2198 2273
+)
+"tp1/EnsCo.ml" 77 2198 2202 "tp1/EnsCo.ml" 77 2198 2230
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 77 2198 2235 "tp1/EnsCo.ml" 77 2198 2249
+type(
+  (ab * int) list -> int -> bool
+)
+ident(
+  int_ref parcours_arbre "tp1/EnsCo.ml" 72 2001 2006 "tp1/EnsCo.ml" 72 2001 2020
+)
+"tp1/EnsCo.ml" 77 2198 2252 "tp1/EnsCo.ml" 77 2198 2254
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 77 2198 2209 "tp1/EnsCo.ml" 77 2198 2211
+)
+"tp1/EnsCo.ml" 77 2198 2255 "tp1/EnsCo.ml" 77 2198 2256
+type(
+  int
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 77 2198 2224 "tp1/EnsCo.ml" 77 2198 2225
+)
+"tp1/EnsCo.ml" 77 2198 2251 "tp1/EnsCo.ml" 77 2198 2257
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 77 2198 2260 "tp1/EnsCo.ml" 77 2198 2262
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 77 2198 2220 "tp1/EnsCo.ml" 77 2198 2222
+)
+"tp1/EnsCo.ml" 77 2198 2263 "tp1/EnsCo.ml" 77 2198 2264
+type(
+  int
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 77 2198 2224 "tp1/EnsCo.ml" 77 2198 2225
+)
+"tp1/EnsCo.ml" 77 2198 2259 "tp1/EnsCo.ml" 77 2198 2265
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 77 2198 2267 "tp1/EnsCo.ml" 77 2198 2269
+type(
+  (ab * int) list
+)
+ident(
+  int_ref ll "tp1/EnsCo.ml" 77 2198 2228 "tp1/EnsCo.ml" 77 2198 2230
+)
+"tp1/EnsCo.ml" 77 2198 2259 "tp1/EnsCo.ml" 77 2198 2269
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 77 2198 2250 "tp1/EnsCo.ml" 77 2198 2270
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 77 2198 2271 "tp1/EnsCo.ml" 77 2198 2272
+type(
+  int
+)
+ident(
+  int_ref n "tp1/EnsCo.ml" 72 2001 2029 "tp1/EnsCo.ml" 72 2001 2030
+)
+"tp1/EnsCo.ml" 77 2198 2234 "tp1/EnsCo.ml" 77 2198 2273
+type(
+  bool
+)
+"tp1/EnsCo.ml" 78 2274 2278 "tp1/EnsCo.ml" 78 2274 2279
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 78 2274 2283 "tp1/EnsCo.ml" 78 2274 2288
+type(
+  bool
+)
+"tp1/EnsCo.ml" 73 2034 2036 "tp1/EnsCo.ml" 78 2274 2288
+type(
+  bool
+)
+"tp1/EnsCo.ml" 72 2001 2023 "tp1/EnsCo.ml" 78 2274 2288
+type(
+  (ab * int) list -> int -> bool
+)
+"tp1/EnsCo.ml" 79 2289 2294 "tp1/EnsCo.ml" 79 2289 2308
+type(
+  (ab * int) list -> int -> bool
+)
+ident(
+  int_ref parcours_arbre "tp1/EnsCo.ml" 72 2001 2006 "tp1/EnsCo.ml" 72 2001 2020
+)
+"tp1/EnsCo.ml" 79 2289 2311 "tp1/EnsCo.ml" 79 2289 2313
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 64 1706 1735 "tp1/EnsCo.ml" 64 1706 1737
+)
+"tp1/EnsCo.ml" 79 2289 2314 "tp1/EnsCo.ml" 79 2289 2315
+type(
+  int
+)
+"tp1/EnsCo.ml" 79 2289 2310 "tp1/EnsCo.ml" 79 2289 2316
+type(
+  ab * int
+)
+"tp1/EnsCo.ml" 79 2289 2309 "tp1/EnsCo.ml" 79 2289 2317
+type(
+  (ab * int) list
+)
+"tp1/EnsCo.ml" 79 2289 2319 "tp1/EnsCo.ml" 79 2289 2330
+type(
+  ab -> int -> int
+)
+ident(
+  int_ref calcul_noir "tp1/EnsCo.ml" 65 1741 1750 "tp1/EnsCo.ml" 65 1741 1761
+)
+"tp1/EnsCo.ml" 79 2289 2331 "tp1/EnsCo.ml" 79 2289 2333
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 64 1706 1735 "tp1/EnsCo.ml" 64 1706 1737
+)
+"tp1/EnsCo.ml" 79 2289 2334 "tp1/EnsCo.ml" 79 2289 2335
+type(
+  int
+)
+"tp1/EnsCo.ml" 79 2289 2318 "tp1/EnsCo.ml" 79 2289 2336
+type(
+  int
+)
+"tp1/EnsCo.ml" 79 2289 2293 "tp1/EnsCo.ml" 79 2289 2337
+type(
+  bool
+)
+"tp1/EnsCo.ml" 65 1741 1742 "tp1/EnsCo.ml" 79 2289 2337
+type(
+  bool
+)
+"tp1/EnsCo.ml" 64 1706 1726 "tp1/EnsCo.ml" 79 2289 2337
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 81 2341 2345 "tp1/EnsCo.ml" 81 2341 2356
+type(
+  ab -> bool
+)
+ident(
+  def ab_bicolore "tp1/EnsCo.ml" 84 2458 2458 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 81 2341 2368 "tp1/EnsCo.ml" 81 2341 2370
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 82 2374 2375 "tp1/EnsCo.ml" 82 2374 2453
+)
+"tp1/EnsCo.ml" 82 2374 2376 "tp1/EnsCo.ml" 82 2374 2387
+type(
+  ab -> bool
+)
+ident(
+  int_ref est_abrprof "tp1/EnsCo.ml" 37 923 927 "tp1/EnsCo.ml" 37 923 938
+)
+"tp1/EnsCo.ml" 82 2374 2388 "tp1/EnsCo.ml" 82 2374 2390
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 81 2341 2368 "tp1/EnsCo.ml" 81 2341 2370
+)
+"tp1/EnsCo.ml" 82 2374 2375 "tp1/EnsCo.ml" 82 2374 2391
+type(
+  bool
+)
+"tp1/EnsCo.ml" 82 2374 2392 "tp1/EnsCo.ml" 82 2374 2394
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"tp1/EnsCo.ml" 82 2374 2396 "tp1/EnsCo.ml" 82 2374 2407
+type(
+  ab -> bool
+)
+ident(
+  int_ref racine_noir "tp1/EnsCo.ml" 46 1243 1247 "tp1/EnsCo.ml" 46 1243 1258
+)
+"tp1/EnsCo.ml" 82 2374 2408 "tp1/EnsCo.ml" 82 2374 2410
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 81 2341 2368 "tp1/EnsCo.ml" 81 2341 2370
+)
+"tp1/EnsCo.ml" 82 2374 2395 "tp1/EnsCo.ml" 82 2374 2411
+type(
+  bool
+)
+"tp1/EnsCo.ml" 82 2374 2412 "tp1/EnsCo.ml" 82 2374 2414
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"tp1/EnsCo.ml" 82 2374 2416 "tp1/EnsCo.ml" 82 2374 2427
+type(
+  ab -> bool
+)
+ident(
+  int_ref noeud_rouge "tp1/EnsCo.ml" 54 1407 1411 "tp1/EnsCo.ml" 54 1407 1422
+)
+"tp1/EnsCo.ml" 82 2374 2428 "tp1/EnsCo.ml" 82 2374 2430
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 81 2341 2368 "tp1/EnsCo.ml" 81 2341 2370
+)
+"tp1/EnsCo.ml" 82 2374 2415 "tp1/EnsCo.ml" 82 2374 2431
+type(
+  bool
+)
+"tp1/EnsCo.ml" 82 2374 2432 "tp1/EnsCo.ml" 82 2374 2434
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"tp1/EnsCo.ml" 82 2374 2436 "tp1/EnsCo.ml" 82 2374 2449
+type(
+  ab -> bool
+)
+ident(
+  int_ref nb_noeud_noir "tp1/EnsCo.ml" 64 1706 1710 "tp1/EnsCo.ml" 64 1706 1723
+)
+"tp1/EnsCo.ml" 82 2374 2450 "tp1/EnsCo.ml" 82 2374 2452
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 81 2341 2368 "tp1/EnsCo.ml" 81 2341 2370
+)
+"tp1/EnsCo.ml" 82 2374 2435 "tp1/EnsCo.ml" 82 2374 2453
+type(
+  bool
+)
+"tp1/EnsCo.ml" 82 2374 2415 "tp1/EnsCo.ml" 82 2374 2453
+type(
+  bool
+)
+"tp1/EnsCo.ml" 82 2374 2395 "tp1/EnsCo.ml" 82 2374 2453
+type(
+  bool
+)
+"tp1/EnsCo.ml" 82 2374 2375 "tp1/EnsCo.ml" 82 2374 2453
+type(
+  bool
+)
+"tp1/EnsCo.ml" 81 2341 2359 "tp1/EnsCo.ml" 82 2374 2453
+type(
+  ab -> bool
+)
+"tp1/EnsCo.ml" 84 2458 2462 "tp1/EnsCo.ml" 84 2458 2464
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 86 2601 2601 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 84 2458 2479 "tp1/EnsCo.ml" 84 2458 2483
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2484 "tp1/EnsCo.ml" 84 2458 2486
+type(
+  element
+)
+"tp1/EnsCo.ml" 84 2458 2487 "tp1/EnsCo.ml" 84 2458 2491
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 84 2458 2492 "tp1/EnsCo.ml" 84 2458 2496
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2473 "tp1/EnsCo.ml" 84 2458 2497
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2498 "tp1/EnsCo.ml" 84 2458 2500
+type(
+  element
+)
+"tp1/EnsCo.ml" 84 2458 2501 "tp1/EnsCo.ml" 84 2458 2505
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 84 2458 2512 "tp1/EnsCo.ml" 84 2458 2516
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2517 "tp1/EnsCo.ml" 84 2458 2519
+type(
+  element
+)
+"tp1/EnsCo.ml" 84 2458 2520 "tp1/EnsCo.ml" 84 2458 2525
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 84 2458 2538 "tp1/EnsCo.ml" 84 2458 2542
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2543 "tp1/EnsCo.ml" 84 2458 2545
+type(
+  element
+)
+"tp1/EnsCo.ml" 84 2458 2546 "tp1/EnsCo.ml" 84 2458 2551
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 84 2458 2552 "tp1/EnsCo.ml" 84 2458 2556
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2532 "tp1/EnsCo.ml" 84 2458 2557
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2558 "tp1/EnsCo.ml" 84 2458 2561
+type(
+  element
+)
+"tp1/EnsCo.ml" 84 2458 2562 "tp1/EnsCo.ml" 84 2458 2567
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 84 2458 2574 "tp1/EnsCo.ml" 84 2458 2578
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2579 "tp1/EnsCo.ml" 84 2458 2582
+type(
+  element
+)
+"tp1/EnsCo.ml" 84 2458 2583 "tp1/EnsCo.ml" 84 2458 2588
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 84 2458 2589 "tp1/EnsCo.ml" 84 2458 2593
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2568 "tp1/EnsCo.ml" 84 2458 2594
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2526 "tp1/EnsCo.ml" 84 2458 2595
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2506 "tp1/EnsCo.ml" 84 2458 2596
+type(
+  ab
+)
+"tp1/EnsCo.ml" 84 2458 2467 "tp1/EnsCo.ml" 84 2458 2597
+type(
+  ab
+)
+"tp1/EnsCo.ml" 86 2601 2609 "tp1/EnsCo.ml" 86 2601 2617
+type(
+  ab -> element -> bool
+)
+ident(
+  def est_dans "tp1/EnsCo.ml" 86 2601 2601 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 86 2601 2624 "tp1/EnsCo.ml" 86 2601 2626
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 86 2601 2627 "tp1/EnsCo.ml" 92 2793 2828
+)
+"tp1/EnsCo.ml" 86 2601 2627 "tp1/EnsCo.ml" 86 2601 2628
+type(
+  element
+)
+ident(
+  def x "tp1/EnsCo.ml" 87 2632 2633 "tp1/EnsCo.ml" 92 2793 2828
+)
+"tp1/EnsCo.ml" 87 2632 2639 "tp1/EnsCo.ml" 87 2632 2641
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 86 2601 2624 "tp1/EnsCo.ml" 86 2601 2626
+)
+"tp1/EnsCo.ml" 88 2647 2650 "tp1/EnsCo.ml" 88 2647 2654
+type(
+  ab
+)
+"tp1/EnsCo.ml" 88 2647 2658 "tp1/EnsCo.ml" 88 2647 2663
+type(
+  bool
+)
+"tp1/EnsCo.ml" 89 2664 2673 "tp1/EnsCo.ml" 89 2664 2675
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 89 2664 2689 "tp1/EnsCo.ml" 89 2664 2703
+)
+"tp1/EnsCo.ml" 89 2664 2676 "tp1/EnsCo.ml" 89 2664 2677
+type(
+  element
+)
+ident(
+  def y "tp1/EnsCo.ml" 89 2664 2689 "tp1/EnsCo.ml" 89 2664 2703
+)
+"tp1/EnsCo.ml" 89 2664 2678 "tp1/EnsCo.ml" 89 2664 2679
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 89 2664 2680 "tp1/EnsCo.ml" 89 2664 2682
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 89 2664 2689 "tp1/EnsCo.ml" 89 2664 2703
+)
+"tp1/EnsCo.ml" 89 2664 2667 "tp1/EnsCo.ml" 89 2664 2683
+type(
+  ab
+)
+"tp1/EnsCo.ml" 89 2664 2689 "tp1/EnsCo.ml" 89 2664 2690
+type(
+  element
+)
+ident(
+  int_ref y "tp1/EnsCo.ml" 89 2664 2676 "tp1/EnsCo.ml" 89 2664 2677
+)
+"tp1/EnsCo.ml" 89 2664 2691 "tp1/EnsCo.ml" 89 2664 2693
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"tp1/EnsCo.ml" 89 2664 2694 "tp1/EnsCo.ml" 89 2664 2695
+type(
+  element
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 86 2601 2627 "tp1/EnsCo.ml" 86 2601 2628
+)
+"tp1/EnsCo.ml" 89 2664 2689 "tp1/EnsCo.ml" 89 2664 2695
+type(
+  bool
+)
+"tp1/EnsCo.ml" 89 2664 2699 "tp1/EnsCo.ml" 89 2664 2703
+type(
+  bool
+)
+"tp1/EnsCo.ml" 90 2704 2713 "tp1/EnsCo.ml" 90 2704 2715
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 90 2704 2729 "tp1/EnsCo.ml" 90 2704 2753
+)
+"tp1/EnsCo.ml" 90 2704 2716 "tp1/EnsCo.ml" 90 2704 2717
+type(
+  element
+)
+ident(
+  def y "tp1/EnsCo.ml" 90 2704 2729 "tp1/EnsCo.ml" 90 2704 2753
+)
+"tp1/EnsCo.ml" 90 2704 2718 "tp1/EnsCo.ml" 90 2704 2719
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 90 2704 2720 "tp1/EnsCo.ml" 90 2704 2722
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 90 2704 2729 "tp1/EnsCo.ml" 90 2704 2753
+)
+"tp1/EnsCo.ml" 90 2704 2707 "tp1/EnsCo.ml" 90 2704 2723
+type(
+  ab
+)
+"tp1/EnsCo.ml" 90 2704 2729 "tp1/EnsCo.ml" 90 2704 2730
+type(
+  element
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 86 2601 2627 "tp1/EnsCo.ml" 86 2601 2628
+)
+"tp1/EnsCo.ml" 90 2704 2731 "tp1/EnsCo.ml" 90 2704 2732
+type(
+  element -> element -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"tp1/EnsCo.ml" 90 2704 2733 "tp1/EnsCo.ml" 90 2704 2734
+type(
+  element
+)
+ident(
+  int_ref y "tp1/EnsCo.ml" 90 2704 2716 "tp1/EnsCo.ml" 90 2704 2717
+)
+"tp1/EnsCo.ml" 90 2704 2729 "tp1/EnsCo.ml" 90 2704 2734
+type(
+  bool
+)
+"tp1/EnsCo.ml" 90 2704 2739 "tp1/EnsCo.ml" 90 2704 2747
+type(
+  ab -> element -> bool
+)
+ident(
+  int_ref est_dans "tp1/EnsCo.ml" 86 2601 2609 "tp1/EnsCo.ml" 86 2601 2617
+)
+"tp1/EnsCo.ml" 90 2704 2748 "tp1/EnsCo.ml" 90 2704 2750
+type(
+  ab
+)
+ident(
+  int_ref ad "tp1/EnsCo.ml" 90 2704 2720 "tp1/EnsCo.ml" 90 2704 2722
+)
+"tp1/EnsCo.ml" 90 2704 2751 "tp1/EnsCo.ml" 90 2704 2752
+type(
+  element
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 86 2601 2627 "tp1/EnsCo.ml" 86 2601 2628
+)
+"tp1/EnsCo.ml" 90 2704 2738 "tp1/EnsCo.ml" 90 2704 2753
+type(
+  bool
+)
+"tp1/EnsCo.ml" 91 2754 2763 "tp1/EnsCo.ml" 91 2754 2765
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 91 2754 2777 "tp1/EnsCo.ml" 91 2754 2792
+)
+"tp1/EnsCo.ml" 91 2754 2766 "tp1/EnsCo.ml" 91 2754 2767
+type(
+  element
+)
+ident(
+  def y "tp1/EnsCo.ml" 91 2754 2777 "tp1/EnsCo.ml" 91 2754 2792
+)
+"tp1/EnsCo.ml" 91 2754 2768 "tp1/EnsCo.ml" 91 2754 2769
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 91 2754 2770 "tp1/EnsCo.ml" 91 2754 2772
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 91 2754 2777 "tp1/EnsCo.ml" 91 2754 2792
+)
+"tp1/EnsCo.ml" 91 2754 2757 "tp1/EnsCo.ml" 91 2754 2773
+type(
+  ab
+)
+"tp1/EnsCo.ml" 91 2754 2778 "tp1/EnsCo.ml" 91 2754 2786
+type(
+  ab -> element -> bool
+)
+ident(
+  int_ref est_dans "tp1/EnsCo.ml" 86 2601 2609 "tp1/EnsCo.ml" 86 2601 2617
+)
+"tp1/EnsCo.ml" 91 2754 2787 "tp1/EnsCo.ml" 91 2754 2789
+type(
+  ab
+)
+ident(
+  int_ref ag "tp1/EnsCo.ml" 91 2754 2763 "tp1/EnsCo.ml" 91 2754 2765
+)
+"tp1/EnsCo.ml" 91 2754 2790 "tp1/EnsCo.ml" 91 2754 2791
+type(
+  element
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 86 2601 2627 "tp1/EnsCo.ml" 86 2601 2628
+)
+"tp1/EnsCo.ml" 91 2754 2777 "tp1/EnsCo.ml" 91 2754 2792
+type(
+  bool
+)
+"tp1/EnsCo.ml" 92 2793 2796 "tp1/EnsCo.ml" 92 2793 2797
+type(
+  ab
+)
+"tp1/EnsCo.ml" 92 2793 2801 "tp1/EnsCo.ml" 92 2793 2809
+type(
+  string -> bool
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tp1/EnsCo.ml" 92 2793 2810 "tp1/EnsCo.ml" 92 2793 2828
+type(
+  string
+)
+"tp1/EnsCo.ml" 92 2793 2801 "tp1/EnsCo.ml" 92 2793 2828
+type(
+  bool
+)
+"tp1/EnsCo.ml" 87 2632 2633 "tp1/EnsCo.ml" 92 2793 2828
+type(
+  bool
+)
+"tp1/EnsCo.ml" 86 2601 2620 "tp1/EnsCo.ml" 92 2793 2828
+type(
+  ab -> element -> bool
+)
+"tp1/EnsCo.ml" 94 2832 2836 "tp1/EnsCo.ml" 94 2832 2842
+type(
+  ab -> element -> ab
+)
+ident(
+  def insert "tp1/EnsCo.ml" 107 3130 3130 "tp1/EnsCo.ml" 1 0 -1
+)
+"tp1/EnsCo.ml" 94 2832 2849 "tp1/EnsCo.ml" 94 2832 2851
+type(
+  ab
+)
+ident(
+  def ab "tp1/EnsCo.ml" 94 2832 2852 "tp1/EnsCo.ml" 105 3113 3126
+)
+"tp1/EnsCo.ml" 94 2832 2852 "tp1/EnsCo.ml" 94 2832 2853
+type(
+  element
+)
+ident(
+  def x "tp1/EnsCo.ml" 95 2857 2858 "tp1/EnsCo.ml" 105 3113 3126
+)
+"tp1/EnsCo.ml" 95 2857 2862 "tp1/EnsCo.ml" 95 2857 2870
+type(
+  ab -> element -> bool
+)
+ident(
+  int_ref est_dans "tp1/EnsCo.ml" 86 2601 2609 "tp1/EnsCo.ml" 86 2601 2617
+)
+"tp1/EnsCo.ml" 95 2857 2871 "tp1/EnsCo.ml" 95 2857 2873
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 94 2832 2849 "tp1/EnsCo.ml" 94 2832 2851
+)
+"tp1/EnsCo.ml" 95 2857 2874 "tp1/EnsCo.ml" 95 2857 2875
+type(
+  element
+)
+ident(
+  int_ref x "tp1/EnsCo.ml" 94 2832 2852 "tp1/EnsCo.ml" 94 2832 2853
+)
+"tp1/EnsCo.ml" 95 2857 2861 "tp1/EnsCo.ml" 95 2857 2876
+type(
+  bool
+)
+"tp1/EnsCo.ml" 96 2882 2884 "tp1/EnsCo.ml" 96 2882 2886
+type(
+  ab
+)
+ident(
+  int_ref ab "tp1/EnsCo.ml" 94 2832 2849 "tp1/EnsCo.ml" 94 2832 2851
+)
+"tp1/EnsCo.ml" 98 2893 2903 "tp1/EnsCo.ml" 98 2893 2906
+type(
+  ab -> '_a -> ab
+)
+ident(
+  def aux "tp1/EnsCo.ml" 98 2893 2895 "tp1/EnsCo.ml" 105 3113 3126
+)
+"tp1/EnsCo.ml" 98 2893 2913 "tp1/EnsCo.ml" 98 2893 2916
+type(
+  ab
+)
+ident(
+  def abb "tp1/EnsCo.ml" 98 2893 2917 "tp1/EnsCo.ml" 103 3075 3111
+)
+"tp1/EnsCo.ml" 98 2893 2917 "tp1/EnsCo.ml" 98 2893 2919
+type(
+  '_a
+)
+ident(
+  def xx "tp1/EnsCo.ml" 99 2923 2926 "tp1/EnsCo.ml" 103 3075 3111
+)
+"tp1/EnsCo.ml" 99 2923 2932 "tp1/EnsCo.ml" 99 2923 2935
+type(
+  ab
+)
+ident(
+  int_ref abb "tp1/EnsCo.ml" 98 2893 2913 "tp1/EnsCo.ml" 98 2893 2916
+)
+"tp1/EnsCo.ml" 100 2941 2946 "tp1/EnsCo.ml" 100 2941 2950
+type(
+  ab
+)
+"tp1/EnsCo.ml" 100 2941 2960 "tp1/EnsCo.ml" 100 2941 2964
+type(
+  ab
+)
+"tp1/EnsCo.ml" 100 2941 2965 "tp1/EnsCo.ml" 100 2941 2977
+type(
+  element_augmente
+)
+"tp1/EnsCo.ml" 100 2941 2954 "tp1/EnsCo.ml" 100 2941 2989
+type(
+  ab
+)
+"tp1/EnsCo.ml" 101 2990 3001 "tp1/EnsCo.ml" 101 2990 3003
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 101 2990 3017 "tp1/EnsCo.ml" 101 2990 3037
+)
+"tp1/EnsCo.ml" 101 2990 3004 "tp1/EnsCo.ml" 101 2990 3005
+type(
+  element
+)
+ident(
+  def y "tp1/EnsCo.ml" 101 2990 3017 "tp1/EnsCo.ml" 101 2990 3037
+)
+"tp1/EnsCo.ml" 101 2990 3006 "tp1/EnsCo.ml" 101 2990 3007
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 101 2990 3008 "tp1/EnsCo.ml" 101 2990 3010
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 101 2990 3017 "tp1/EnsCo.ml" 101 2990 3037
+)
+"tp1/EnsCo.ml" 101 2990 2995 "tp1/EnsCo.ml" 101 2990 3011
+type(
+  ab
+)
+"tp1/EnsCo.ml" 102 3038 3049 "tp1/EnsCo.ml" 102 3038 3051
+type(
+  ab
+)
+ident(
+  def ag "tp1/EnsCo.ml" 102 3038 3063 "tp1/EnsCo.ml" 102 3038 3074
+)
+"tp1/EnsCo.ml" 102 3038 3052 "tp1/EnsCo.ml" 102 3038 3053
+type(
+  element
+)
+ident(
+  def y "tp1/EnsCo.ml" 102 3038 3063 "tp1/EnsCo.ml" 102 3038 3074
+)
+"tp1/EnsCo.ml" 102 3038 3054 "tp1/EnsCo.ml" 102 3038 3055
+type(
+  couleur
+)
+"tp1/EnsCo.ml" 102 3038 3056 "tp1/EnsCo.ml" 102 3038 3058
+type(
+  ab
+)
+ident(
+  def ad "tp1/EnsCo.ml" 102 3038 3063 "tp1/EnsCo.ml" 102 3038 3074
+)
+"tp1/EnsCo.ml" 102 3038 3043 "tp1/EnsCo.ml" 102 3038 3059
+type(
+  ab
+)
+"tp1/EnsCo.ml" 103 3075 3080 "tp1/EnsCo.ml" 103 3075 3081
+type(
+  ab
+)
